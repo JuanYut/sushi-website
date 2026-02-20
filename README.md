@@ -18,7 +18,7 @@ The goal of this project was to practice clean structure, lightweight interactio
 ## 🌐 Live Site
 
 👉 **Live demo:**  
-🌐 [Link to Live Demo (Vercel) ↗](https://react-movie-app-phi-ruby.vercel.app/)
+🌐 [Link to Live Demo (Vercel) ↗](https://sushi-website-theta.vercel.app/)
 
 ---
 
